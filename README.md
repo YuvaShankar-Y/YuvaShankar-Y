@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Yuvan Shankar (@YuvaShankar-Y)
+# 👋 Hey there, I'm Yuva Shankar (@YuvaShankar-Y)
 
 🎓 Cybersecurity & CSE undergrad at Shiv Nadar University, Chennai  
 ⚔️ Passionate about building AI-powered tools and mastering offensive security  
