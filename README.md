@@ -2,7 +2,7 @@
 
 🎓 Cybersecurity & CSE undergrad at Shiv Nadar University, Chennai  
 ⚔️ Passionate about building AI-powered tools and mastering offensive security  
-🧠 Lifelong learner on a mission to conquer AI + Cybersec like a final boss  
+🧠 Lifelong learner on a mission to conquer AI + Cybersec 
 
 ---
 
